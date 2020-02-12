@@ -18,8 +18,8 @@ boston.zip
   - reviews.csv
 
 Through the project i will try to answer the following questions:
-  Q1 - Does wording effect reviews?
-  Q2 - Location vs revenue where to invest?
-  Q3 - Is finding aplicable to other data set?
+    Q1 - Does wording effect reviews?
+    Q2 - Location vs revenue where to invest?
+    Q3 - Is finding aplicable to other data set?
   
 The resulst are in below blog post: https://medium.com/@m.bilgehankilinc/an-experienced-business-developer-vs-a-lazy-traveler-on-airbnb-seattle-and-boston-data-12771267b28b

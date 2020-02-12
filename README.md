@@ -18,6 +18,7 @@ boston.zip
   - reviews.csv
 
 Through the project i will try to answer the following questions:
+    
     Q1 - Does wording effect reviews?
     Q2 - Location vs revenue where to invest?
     Q3 - Is finding aplicable to other data set?

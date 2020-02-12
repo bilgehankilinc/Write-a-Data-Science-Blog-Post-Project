@@ -11,6 +11,7 @@ seattle.zip
   - calendar.csv
   - listings.csv
   - reviews.csv
+
 boston.zip
   - calendar.csv
   - listings.csv

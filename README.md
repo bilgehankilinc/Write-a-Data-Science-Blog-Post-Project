@@ -15,7 +15,7 @@ Code for the project requires python 3 and the followinf librariws:
     - folium
 Most of the libraries above are included in anaconda distribution. Trough coding i've needed to pip install folium only.
 
-## 1. Bussiness Understanding and Problem Definition##
+## 1. Bussiness Understanding and Problem Definition
 For this project i've chosed to analyze given AirBnb data sets for Boston and Seattle.
 
 **Motivation:**

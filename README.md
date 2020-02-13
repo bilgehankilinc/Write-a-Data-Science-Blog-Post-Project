@@ -1,4 +1,4 @@
-# Write_a_Data_Science_Blog_Post_Project
+# Write-a-Data-Science-Blog-Post-Project
 Udacity DS ND Write a Data Science Blog Post Project
 
 **Installation:**

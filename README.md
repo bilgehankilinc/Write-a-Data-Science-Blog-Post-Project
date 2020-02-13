@@ -43,7 +43,7 @@ Data files provided by Udacity and Kaggle for this project which derived from Ai
     - listings.csv : Description of AirBnb Listings with many descriptive features.
     - reviews.csv : Reviews related to AirBnb Listing with unique reviewer ids.
 
-Also there are notebook, blog post draft and 2 main html outputs of modelling section in this rep for furher use.
+Also there are notebook, blog post draft and 2 main html outputs of modelling section in this rep for further use.
 
 **Objective and Plan :**
 
